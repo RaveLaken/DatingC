@@ -6,7 +6,7 @@
   "typings": "build/index.d.ts",
   "repository": "https://github.com/sealdice/seal-swordworld",
   "license": "Apache-2.0",
-  "keywords": [],
+  "keywords": ["恋综"],
   "scripts": {
     "build": "cross-env NODE_ENV=production node tools/build.js",
     "build-dev": "cross-env NODE_ENV=dev node tools/build.js"
