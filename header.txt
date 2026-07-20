@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         模板项目
-// @author       作者名
-// @version      1.0.0
-// @description  这是海豹的js扩展模板项目，请自行修改信息
-// @timestamp    1674477074
-// 2023/1/23
-// @license      MIT
-// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// @name           恋综插件
+// @author         繁星碑刻
+// @version        2.3.0
+// @description    提供多种恋综开本辅助功能。二改请遵循知识共享协议，本插件及其衍生不得用于任何商业用途。
+// @timestamp      1784551222
+// @diceRequireVer 1.4.1
+// @license        CC BY-NC-SA
+// @homepageURL    https://github.com/RaveLaken/DatingC
 // ==/UserScript==
