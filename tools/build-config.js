@@ -12,7 +12,7 @@ module.exports = {
     // Uses incremental compilation (see `chokidar.on`).
     // incremental: true,
     // Removes whitespace, etc. depending on `NODE_ENV=...`.
-    minify: process.env.NODE_ENV === "production",
+    minify: false, // process.env.NODE_ENV === "production",
     // Bundles JavaScript to (see `entryPoints`).
     outfile: "dev/" + filename,
     // Others
