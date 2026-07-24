@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           恋综插件
+// @name           恋综插件测试版
 // @author         繁星碑刻
 // @version        3.0.0
 // @description    提供多种恋综开本辅助功能，本插件及其衍生不得用于任何商业用途。
